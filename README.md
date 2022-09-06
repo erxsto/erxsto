@@ -2,4 +2,5 @@
 
 ## Acerca de
 
-Se mostrará una pequeña parte del conocimiento que he adquerido en los años, implementandolo en varios segmentos los cuales tratarán acerca de todo lo que he realizado estos años.
+Se mostrará una pequeña parte del conocimiento que he adquerido en los años, implementandolo en varios segmentos los cuales tratarán acerca de todo lo que he realizado estos años. <br>
+<a href="erasto.me">Portafolio</a>
